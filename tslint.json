@@ -1,5 +1,6 @@
 {
   "rules": {
+
     "class-name": true,
     "comment-format": [true, "check-space"],
     "curly": true,
@@ -36,7 +37,7 @@
     "no-unused-expression": true,
     "no-use-before-declare": true,
     "no-var-keyword": true,
-    "object-literal-sort-keys": true,
+    "object-literal-sort-keys": false,
     "one-line": [true,
       "check-open-brace",
       "check-catch",

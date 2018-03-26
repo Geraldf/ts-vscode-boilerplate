@@ -4,7 +4,7 @@ class Greeter implements GreeterInterface {
         this.greeting = message;
     }
     public greet() {
-        return `Hello, ${this.greeting}`;
+        return `Hellossss, ${this.greeting}`;
     }
 }
 

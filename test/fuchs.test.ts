@@ -15,7 +15,7 @@ describe("Greeter Class", () => {
         let greet = "world!";
         let greater = new Greeter(greet);
         let actual = greater.greet();
-        let expected = `Hello, ${greet}`;
+        let expected = `Hellossss, ${greet}`;
         expect(actual).eql(expected);
     });
 
